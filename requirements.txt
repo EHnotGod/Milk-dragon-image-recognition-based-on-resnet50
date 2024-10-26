@@ -1,0 +1,6 @@
+matplotlib
+numpy
+paddlepaddle
+gradio
+pillow
+opencv-python
